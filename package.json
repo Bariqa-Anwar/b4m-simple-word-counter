@@ -1,0 +1,18 @@
+{
+  "name": "b4m-simple-word-counter",
+  "version": "1.0.0",
+  "description": "This is a basic word counter project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "b4m",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
